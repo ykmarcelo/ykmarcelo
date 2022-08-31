@@ -1,4 +1,4 @@
-### Olá eu sou marcelo Farias!
+# Olá eu sou marcelo Farias!
 
 
 
@@ -20,10 +20,10 @@
 </div>
 
 <div style="display: inline_block"><br/>
-  <img align="center"  alt="html5" <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center"  alt="html5"  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center"  alt="css" <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="mf-GIT" height="35" width="50"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
- 
+  
      
  </div>    
  
