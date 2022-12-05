@@ -3,7 +3,7 @@
 
 
 - 🔭  Trabalho Como Técnico de TI 
-- 💻 Estudando HTML/CSS/GIT
+- 💻 Estudando Programação Full Stack
 
  <div> 
 
